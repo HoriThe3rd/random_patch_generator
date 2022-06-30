@@ -2,7 +2,7 @@ Unlabeled Patch Generator
 =======
 
 ## Overview
-[CoSPA](https://github.com/Tokunaga-LAB-Group/CoSPA)で学習する際に必要となる`Unlabeled Patch`をランダムに自動生成するためのスクリプトである．[Image_Patch_Generator](https://github.com/RxstydnR/Image_Patch_Generator)を参考に作成した．
+パッチ画像をランダムに自動生成するためのスクリプトである．[Image_Patch_Generator](https://github.com/RxstydnR/Image_Patch_Generator)を参考に作成した．
 
 ## Execution
 実行は次のように行う．
